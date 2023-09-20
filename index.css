@@ -1,0 +1,21 @@
+/* // About-me-section  */
+.about-me-section{
+    display: flex;
+
+}
+.myself{
+    float: left;
+    text-align: right;
+    border: 1px solid black;
+    
+}
+.myphoto img{
+    float: right;
+    width: 50%;
+    border: 1px solid black;
+    
+}
+img{
+    float: right;
+    width: 50%;
+}
